@@ -1,0 +1,17 @@
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.Tests.deps.json
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.Tests.runtimeconfig.json
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.Tests.runtimeconfig.dev.json
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.Tests.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.Tests.pdb
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.csprojAssemblyReference.cache
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.csproj.CoreCompileInputs.cache
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.AssemblyInfoInputs.cache
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.AssemblyInfo.cs
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.pdb
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.dll
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\bin\Debug\netcoreapp2.1\EmployeeLib.pdb
+D:\Warehouse\SDE Candidates\EmployeeLib.Tests\obj\Debug\netcoreapp2.1\EmployeeLib.Tests.csproj.CopyComplete
