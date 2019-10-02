@@ -1,0 +1,16 @@
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\EmployeeLib.Test.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\EmployeeLib.Test.pdb
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\EmployeeLib.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\TinyCsvParser.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\EmployeeLib.pdb
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Directory\SDE Candidates\EmployeeLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Directory\SDE Candidates\EmployeeLib.Test\obj\Debug\EmployeeLib.Test.csprojAssemblyReference.cache
+D:\Directory\SDE Candidates\EmployeeLib.Test\obj\Debug\EmployeeLib.Test.csproj.CopyComplete
+D:\Directory\SDE Candidates\EmployeeLib.Test\obj\Debug\EmployeeLib.Test.dll
+D:\Directory\SDE Candidates\EmployeeLib.Test\obj\Debug\EmployeeLib.Test.pdb

@@ -1,0 +1,7 @@
+D:\Directory\SDE Candidates\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\Directory\SDE Candidates\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\Directory\SDE Candidates\EmployeeLib\bin\Debug\TinyCsvParser.dll
+D:\Directory\SDE Candidates\EmployeeLib\obj\Debug\EmployeeLib.csprojAssemblyReference.cache
+D:\Directory\SDE Candidates\EmployeeLib\obj\Debug\EmployeeLib.csproj.CopyComplete
+D:\Directory\SDE Candidates\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\Directory\SDE Candidates\EmployeeLib\obj\Debug\EmployeeLib.pdb

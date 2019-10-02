@@ -1,2 +1,3 @@
 # EmployeeLibrary
-require dotnet core 2.2
+
+targets .net 4.7

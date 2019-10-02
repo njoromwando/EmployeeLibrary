@@ -1,8 +1,0 @@
-D:\Warehouse\SDE Candidates\EmployeeLib\bin\Debug\netstandard2.0\EmployeeLib.deps.json
-D:\Warehouse\SDE Candidates\EmployeeLib\bin\Debug\netstandard2.0\EmployeeLib.dll
-D:\Warehouse\SDE Candidates\EmployeeLib\obj\Debug\netstandard2.0\EmployeeLib.csproj.CoreCompileInputs.cache
-D:\Warehouse\SDE Candidates\EmployeeLib\obj\Debug\netstandard2.0\EmployeeLib.AssemblyInfoInputs.cache
-D:\Warehouse\SDE Candidates\EmployeeLib\obj\Debug\netstandard2.0\EmployeeLib.AssemblyInfo.cs
-D:\Warehouse\SDE Candidates\EmployeeLib\bin\Debug\netstandard2.0\EmployeeLib.pdb
-D:\Warehouse\SDE Candidates\EmployeeLib\obj\Debug\netstandard2.0\EmployeeLib.dll
-D:\Warehouse\SDE Candidates\EmployeeLib\obj\Debug\netstandard2.0\EmployeeLib.pdb
